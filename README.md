@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Dynamic header with typing animation via readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=Hey%2C+I%27m+Lokesh+R+%F0%9F%91%8B;Specializing+in+Data+Engineering%2C+AI%2FML+%26+Software+Dev;Turning+Raw+Data+into+Actionable+Intelligence;Strong+Analytical+Mindset+%2B+Industry+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=39d353&center=true&vCenter=true&multiline=false&width=860&height=50&lines=Hey%2C+I%27m+Lokesh+R+%F0%9F%91%8B;Data+Engineer+%E2%80%94+Building+Scalable+ETL+%26+Pipeline+Systems;AI+Engineer+%E2%80%94+Computer+Vision+%26+ML+Model+Development;Full-Stack+Developer+%E2%80%94+React+%7C+Node+%7C+Python+%7C+Flask;Turning+Raw+Data+into+Actionable+Intelligence+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Lokesh-MCA-12&color=00FF7F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Lokesh-MCA-12&color=39d353&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
