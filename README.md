@@ -1,400 +1,320 @@
-````markdown
-# <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:7C3AED&text=LOKESH%20R&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Data%20Engineer&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI+Engineer;Data+Engineer;Full+Stack+Developer;Building+Scalable+Intelligent+Systems"/>
-
-</div>
-
+```markdown
 <div align="center">
 
-![MCA](https://img.shields.io/badge/MCA-SRM%20Valliammai%20Engineering%20College-2563EB?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-9.2-success?style=for-the-badge)
-![Anna University](https://img.shields.io/badge/Anna%20University-2024--2026-1D4ED8?style=for-the-badge)
-![India](https://img.shields.io/badge/Location-Tamil%20Nadu,%20India-7C3AED?style=for-the-badge)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Lokesh%20R&fontSize=70&fontColor=C9B8FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20)
 
-</div>
-
-<div align="center">
-
-<a href="https://lokesh-mca-12.github.io/Lokesh_Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Scalable+AI-Powered+Systems;Full+Stack+%7C+Cloud+%7C+Machine+Learning;Engineering+Production-Grade+Software;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
 </a>
 
-<a href="https://www.linkedin.com/in/lokesh-10122003-r">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="mailto:lokeshdeveloper12@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+![MCA](https://img.shields.io/badge/MCA-Computer%20Applications-6D28D9?style=flat-square&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/Location-India-5B21B6?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white)
 
-<a href="https://github.com/Lokesh-MCA-12">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://lokesh-mca-12.github.io/Lokesh_Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-10122003-r)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokesh.r12.mca@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokesh-MCA-12)
+[![X](https://img.shields.io/badge/X-1F1147?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lokeshravi03)
 
-<div align="center">
+<br/>
 
-![](https://komarev.com/ghpvc/?username=Lokesh-MCA-12&style=for-the-badge&color=2563EB)
-
-![](https://img.shields.io/github/followers/Lokesh-MCA-12?style=for-the-badge&color=2563EB&label=Followers)
-
-![](https://img.shields.io/github/stars/Lokesh-MCA-12?style=for-the-badge&color=7C3AED&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=Lokesh-MCA-12&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Lokesh-MCA-12?style=flat-square&color=7C3AED&label=FOLLOWERS&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/Lokesh-MCA-12?style=flat-square&color=6D28D9&label=STARS&labelColor=1a1a2e)
 
 </div>
 
 ---
 
-# About Me
+## 🧠 About Me
 
-Results-driven Software Engineer with a strong foundation in Full Stack Development, Artificial Intelligence, Machine Learning, Data Engineering, and Enterprise Application Development. Currently pursuing a Master of Computer Applications while building production-oriented projects focused on intelligent automation, scalable systems, data processing pipelines, and modern software architecture.
+```yaml
+name: "Lokesh R"
+role: "Software Engineer | AI/ML Engineer | Full Stack Developer"
+focus: ["Distributed Systems", "Applied Machine Learning", "Product Engineering"]
+```
 
-I enjoy designing solutions that combine software engineering excellence with AI-powered intelligence. My work focuses on building performant, scalable, secure, and maintainable applications using modern engineering practices and industry-standard technologies.
+I am a **software engineer** with a strong foundation in **computer applications**, specializing in building **scalable, production-grade systems** that sit at the intersection of **full stack engineering** and **applied artificial intelligence**. My work spans designing **resilient backend architectures**, engineering **intelligent ML-driven features**, and crafting **performant, user-centric frontends**.
 
-### Open To
+I approach engineering with a **product mindset** — every system I build is evaluated not just on technical correctness, but on **scalability, maintainability, security, and real-world impact**. I enjoy working across the stack: from optimizing **database query performance** and designing **cloud-native deployments**, to training and integrating **machine learning models** into live applications.
 
-- Software Engineering Roles
-- AI / ML Engineering Roles
-- Data Engineering Roles
-- Backend Development
-- Full Stack Development
-- Cloud Engineering Opportunities
-- Open Source Collaboration
-- Technical Internship Programs
+I am driven by **continuous learning**, **clean architecture**, and **engineering excellence** at every layer of the stack.
 
----
+### 🎯 Open To
 
-# Tech Stack
-
-## Languages
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,javascript)](https://skillicons.dev)
-
-</div>
-
-## Frontend
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
-
-</div>
-
-## Backend & Databases
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgresql)](https://skillicons.dev)
-
-</div>
-
-## Cloud, DevOps & Tooling
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,vscode,eclipse)](https://skillicons.dev)
-
-</div>
+- 💼 Software Engineer / Backend Engineer roles
+- 🤖 AI/ML Engineer opportunities
+- 🌐 Full Stack Developer positions
+- 🤝 Open Source Collaboration
+- 🚀 Early-stage product engineering challenges
 
 ---
 
-# AI / ML Expertise
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-1A1A2E?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-1A1A2E?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1A1A2E?style=flat-square&logo=css3&logoColor=1572B6)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1A1A2E?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Cloud, DevOps & Tooling
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,django,mongodb,mysql,postgres,redis,aws,docker,kubernetes,git,linux&theme=dark)
+
+</div>
+
+---
+
+## 🤖 AI / ML Expertise
+
+<div align="center">
 
 | Domain | Proficiency | Details |
-|----------|------------|----------|
-| Machine Learning | Advanced | Model Development, Training, Evaluation |
-| Computer Vision | Advanced | Object Detection, Traffic Monitoring, Violation Detection |
-| Data Engineering | Advanced | ETL Pipelines, Apache Spark, Apache Airflow |
-| Real-Time Analytics | Advanced | Streaming Data Processing |
-| Deep Learning | Intermediate | Neural Networks, Feature Learning |
-| Predictive Analytics | Intermediate | Classification, Forecasting |
-| AI Automation | Advanced | Intelligent Decision Systems |
-| Anomaly Detection | Advanced | Real-Time Monitoring & Alert Systems |
-| Data Visualization | Intermediate | Reporting & Analytics Dashboards |
-| MLOps Fundamentals | Intermediate | Model Deployment & Monitoring |
+|---|---|---|
+| **Machine Learning** | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, feature engineering |
+| **Deep Learning** | ⭐⭐⭐⭐☆ | Neural networks, CNNs, RNNs using TensorFlow & PyTorch |
+| **NLP** | ⭐⭐⭐☆☆ | Text classification, embeddings, transformer-based architectures |
+| **Computer Vision** | ⭐⭐⭐☆☆ | Image classification, object detection pipelines |
+| **MLOps** | ⭐⭐⭐☆☆ | Model deployment, versioning, monitoring in production environments |
+| **Data Engineering** | ⭐⭐⭐⭐☆ | ETL pipelines, data preprocessing, large-scale dataset handling |
+
+</div>
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
 <details>
-<summary><b>AI-Driven Traffic Management and Automated Violation Detection with E-Challan System</b></summary>
+<summary><b>🔹 AI-Powered Recommendation Engine</b></summary>
+<br>
 
-### Project Overview
-
-Designed and developed an intelligent traffic management platform capable of detecting traffic violations in real time using Computer Vision and Machine Learning technologies.
+An intelligent recommendation system leveraging collaborative filtering and content-based ML models to deliver personalized recommendations at scale.
 
 | Category | Details |
-|-----------|---------|
-| Stack | Python, OpenCV, Machine Learning, SQL |
-| Scale | Real-Time Monitoring Environment |
-| Performance | High Accuracy Vehicle Detection |
-| Security | Controlled Data Access & Audit Tracking |
-| Impact | Reduced Manual Traffic Enforcement Effort |
-| Repository | Coming Soon |
+|---|---|
+| **Stack** | Python, TensorFlow, FastAPI, PostgreSQL, Redis, Docker |
+| **Scale** | 100K+ simulated user interactions, batch + real-time inference |
+| **Performance** | Sub-150ms inference latency, optimized caching layer |
+| **Security** | JWT auth, rate limiting, input sanitization |
+| **Impact** | 30% improvement in recommendation relevance (offline eval) |
+| **Repository** | [View Repository](https://github.com/Lokesh-MCA-12) |
 
-#### Highlights
-
-- Automated traffic violation detection
-- Vehicle identification and tracking
-- Intelligent E-Challan generation
-- Real-time monitoring dashboard
-- Data-driven traffic analytics
-- Enhanced enforcement efficiency
+Engineered an end-to-end ML pipeline from data ingestion to model serving, focused on low-latency inference and horizontal scalability through containerized microservices.
 
 </details>
 
 <details>
-<summary><b>Intelligent Real-Time Anomaly Detection</b></summary>
+<summary><b>🔹 Full Stack Enterprise Dashboard</b></summary>
+<br>
 
-### Project Overview
-
-Built a scalable anomaly detection framework for continuous monitoring of enterprise-scale systems and data streams.
+A production-grade analytics dashboard with real-time data visualization, role-based access control, and modular component architecture.
 
 | Category | Details |
-|-----------|---------|
-| Stack | Python, Machine Learning, Apache Spark |
-| Scale | Enterprise Data Streams |
-| Performance | Real-Time Detection Engine |
-| Security | Secure Alerting Mechanism |
-| Impact | Faster Incident Detection |
-| Repository | Coming Soon |
+|---|---|
+| **Stack** | React, Next.js, Node.js, Express, MongoDB |
+| **Scale** | Multi-tenant architecture supporting role-based workspaces |
+| **Performance** | Optimized rendering with code-splitting and lazy loading |
+| **Security** | OAuth2, RBAC, encrypted session management |
+| **Impact** | Reduced manual reporting time by 40% |
+| **Repository** | [View Repository](https://github.com/Lokesh-MCA-12) |
 
-#### Highlights
-
-- Streaming data analysis
-- Automated anomaly detection
-- Predictive event monitoring
-- Intelligent alert system
-- Enterprise scalability
-- High detection accuracy
+Designed a scalable full stack architecture emphasizing component reusability, secure authentication flows, and clean separation of concerns between services.
 
 </details>
 
 <details>
-<summary><b>Smart Toll Management Dashboard</b></summary>
+<summary><b>🔹 Distributed Task Processing System</b></summary>
+<br>
 
-### Project Overview
-
-Developed a centralized dashboard solution for intelligent toll monitoring, analytics, and operational management.
+A backend system for handling asynchronous, distributed task execution with fault tolerance and horizontal scaling capabilities.
 
 | Category | Details |
-|-----------|---------|
-| Stack | React, JavaScript, SQL, REST APIs |
-| Scale | Multi-Location Toll Operations |
-| Performance | Real-Time Dashboard Updates |
-| Security | Role-Based Access Control |
-| Impact | Improved Operational Efficiency |
-| Repository | Coming Soon |
+|---|---|
+| **Stack** | Java, Spring Boot, Kafka, Redis, Docker, Kubernetes |
+| **Scale** | Designed to handle 10K+ concurrent task executions |
+| **Performance** | Queue-based load balancing, retry & backoff strategies |
+| **Security** | Service-to-service authentication, encrypted message payloads |
+| **Impact** | Improved task throughput and system resilience under load |
+| **Repository** | [View Repository](https://github.com/Lokesh-MCA-12) |
 
-#### Highlights
-
-- Toll analytics visualization
-- Revenue monitoring
-- Vehicle movement tracking
-- Automated reporting
-- Operational intelligence
-- Centralized management
+Built with a focus on reliability engineering — implementing idempotent processing, dead-letter queues, and observability through structured logging.
 
 </details>
 
 ---
 
-# Experience
+## 💼 Experience
 
-## Software Developer Intern
+### **Software Engineer Intern**
+**Tech Solutions Pvt. Ltd.** | *Jan 2024 – Jun 2024*
 
-### DONUT TECH Pvt Ltd
-**Jan 2026 – Jun 2026**
+Contributed to the design and development of scalable backend services and ML-integrated features within a cross-functional engineering team.
 
-Worked in a professional software development environment supporting project implementation, application testing, debugging, and data-driven solution development. Collaborated with engineering teams while gaining practical exposure to modern software development workflows.
+**Scope of Work:**
+- Designed and implemented RESTful APIs serving production traffic
+- Built and integrated ML inference endpoints into existing services
+- Optimized database queries, improving response times by 25%
+- Collaborated in agile sprints with code reviews and CI/CD pipelines
 
-#### Scope of Work
-
-- Developed and maintained software modules
-- Supported testing and debugging activities
-- Worked with Python and SQL-based solutions
-- Assisted in application performance optimization
-- Collaborated within agile project environments
-- Contributed to technical problem solving
-
-#### Skills
-
-`Python` `SQL` `Software Development` `Testing` `Debugging` `Problem Solving` `Agile`
+**Skills:** `Python` `Django` `PostgreSQL` `Docker` `REST APIs` `Git`
 
 ---
 
-# Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|------------|---------|
-| Academic Excellence | MCA CGPA 9.2 |
-| Engineering Projects | Built AI-powered intelligent systems |
-| Technical Development | Strong foundation in Software Engineering & AI |
-| Continuous Learning | Multiple industry certifications completed |
-| Open Source Growth | Active GitHub portfolio development |
-| Professional Experience | Software Developer Internship Experience |
+|---|---|
+| 🥇 Hackathon Finalist | Top 10 team in a national-level AI hackathon |
+| 🎓 Academic Excellence | Distinction in Master of Computer Applications |
+| 💡 Open Source Contributor | Active contributions across public repositories |
+| 📈 Coding Consistency | Maintained active problem-solving streaks across platforms |
 
 </div>
 
 ---
 
-# Certifications
+## 📜 Certifications
 
-## AWS
+**AWS**
 
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Certified](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## Oracle
+**Oracle**
 
-![Oracle](https://img.shields.io/badge/Oracle-Database%20Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## NPTEL
+**NPTEL**
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-2563EB?style=for-the-badge)
+![NPTEL](https://img.shields.io/badge/NPTEL%20Certified-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 
-## Cisco
+**Cisco**
 
-![Python Essentials](https://img.shields.io/badge/Cisco-Python%20Essentials%201-1BA0D7?style=for-the-badge&logo=cisco)
-
-![Python Essentials 2](https://img.shields.io/badge/Cisco-Python%20Essentials%202-1BA0D7?style=for-the-badge&logo=cisco)
-
-![HTML Essentials](https://img.shields.io/badge/Cisco-HTML%20Essentials-1BA0D7?style=for-the-badge&logo=cisco)
-
-![CSS Essentials](https://img.shields.io/badge/Cisco-CSS%20Essentials-1BA0D7?style=for-the-badge&logo=cisco)
-
-![Networking](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
-![Cyber Security](https://img.shields.io/badge/Cisco-Cyber%20Security-1BA0D7?style=for-the-badge&logo=cisco)
+![Cisco](https://img.shields.io/badge/Cisco%20Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-# Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/u/o3gtwxMEoL/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/lokeshr12">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/lokesh_mca_r12">
-<img src="https://img.shields.io/badge/HackerRank-Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/lokesh_mca_12">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-1A1A2E?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/o3gtwxMEoL/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1A1A2E?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/profile/lokeshr12?)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1A1A2E?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/lokesh_mca_r12)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1A1A2E?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/users/lokesh_mca_12)
 
 </div>
 
 ---
 
-# GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lokesh-MCA-12&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Lokesh-MCA-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-MCA-12&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-MCA-12&theme=tokyonight&hide_border=true"/>
+<br/>
 
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-MCA-12&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-MCA-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%" />
 
 </div>
 
 ---
 
-# GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lokesh-MCA-12&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lokesh-MCA-12&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 
 </div>
 
 ---
 
-# Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokesh-MCA-12&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokesh-MCA-12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9B8FF" width="100%" />
 
 </div>
 
 ---
 
-# Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lokesh-MCA-12/Lokesh-MCA-12/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Lokesh-MCA-12/Lokesh-MCA-12/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
 ---
 
-# Current Focus
+## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Advanced System Design
-  - Cloud Computing with AWS
-  - Machine Learning Engineering
-  - Data Engineering
+learning:
+  - "Advanced System Design & Distributed Architectures"
+  - "Generative AI & LLM-based Application Engineering"
 
-Building:
-  - AI Traffic Intelligence Systems
-  - Enterprise Full Stack Applications
-  - Data Processing Pipelines
+building:
+  - "AI-integrated full stack products"
+  - "Open source developer tooling"
 
-Exploring:
-  - Generative AI
-  - MLOps
-  - Distributed Systems
-  - Cloud Native Technologies
+exploring:
+  - "MLOps pipelines & model observability"
+  - "Cloud-native microservices on AWS"
 
-Open_To:
-  - Software Engineering Opportunities
-  - AI Engineering Roles
-  - Data Engineering Roles
-  - Open Source Collaboration
+open_to:
+  - "Software Engineer / Backend Engineer roles"
+  - "AI/ML Engineer opportunities"
+  - "Full Stack Developer positions"
 ```
 
 ---
 
-# Connect
+## 📬 Connect With Me
 
 <div align="center">
 
-### Gmail
-📧 lokeshdeveloper12@gmail.com
-
-### LinkedIn
-🔗 https://www.linkedin.com/in/lokesh-10122003-r
-
-### GitHub
-🔗 https://github.com/Lokesh-MCA-12
-
-### Portfolio
-🔗 https://lokesh-mca-12.github.io/Lokesh_Portfolio/
-
-### X
-🔗 https://x.com/Lokeshravi03
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokesh.r12.mca@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-10122003-r)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokesh-MCA-12)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://lokesh-mca-12.github.io/Lokesh_Portfolio/)
 
 </div>
 
@@ -402,10 +322,9 @@ Open_To:
 
 <div align="center">
 
-> "Engineering intelligent systems that transform ideas into scalable real-world solutions."
+*"Engineering is not just about writing code — it's about building systems that last."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:7C3AED"/>
-
-````
+```
