@@ -13,28 +13,20 @@
 
 ## 🧠 About Me
 
-```python
-class Lokesh:
-    name       = "Lokesh R"
-    location   = "Chennai, Tamil Nadu, India 🇮🇳"
-    education  = ["MCA @ Anna University (CGPA 9.2)", "BCA @ Thiruvalluvar University (CGPA 7.5)"]
-    role       = "Data Engineer & Software Engineer"
-    experience = "Software Developer Intern @ Donut Tech (Jan–Jun 2026)"
+👋 Hi! I'm **Lokesh R**, a passionate **Data Engineer & Software Engineer** based in Chennai, Tamil Nadu, India 🇮🇳.
 
-    interests  = [
-        "Data Engineering & ETL/ELT Pipelines",
-        "Machine Learning & AI Systems",
-        "Backend Development",
-        "Cloud-Native Architectures",
-        "System Design",
-    ]
+I'm an MCA graduate from Anna University (CGPA 9.2) with a strong foundation in software development, data engineering, and modern data technologies. I love transforming complex problems into efficient, scalable, and reliable systems — whether that's designing robust data pipelines, building intelligent ML-driven applications, or crafting clean backend services.
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something great together 🚀")
+💼 I recently completed a **Software Developer Internship at Donut Tech**, where I gained hands-on experience in Python, SQL, database management, and real-world application development workflows.
 
-me = Lokesh()
-me.say_hi()
-```
+🎯 My core focus areas include:
+- 🔁 **Data Engineering** — ETL/ELT pipelines, distributed data processing, workflow automation
+- 🤖 **AI & Machine Learning** — Computer vision, anomaly detection, predictive systems
+- ⚙️ **Backend Development** — Scalable APIs, database design, microservices
+- ☁️ **Cloud & DevOps** — AWS, Docker, Kubernetes, cloud-native architectures
+- 📐 **System Design** — Building systems that are clean, maintainable, and built to last
+
+I bring analytical thinking, a proactive mindset, and a genuine commitment to writing code that creates measurable impact. Currently open to opportunities in **Data Engineering**, **Software Engineering**, and related tech roles. Let's build something great together 🚀
 
 ---
 
@@ -123,6 +115,14 @@ me.say_hi()
 
 </div>
 
+### 📅 Contributions in the Last Year
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokesh-MCA-12&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
 ---
 
 ## 🏅 Certifications
@@ -142,6 +142,7 @@ me.say_hi()
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://lokesh-mca-12.github.io/Lokesh_Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-10122003-r)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokesh-MCA-12)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshdeveloper12@gmail.com)
