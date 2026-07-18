@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-👋 Hi! I'm **Lokesh R**, a passionate **Data Engineer & Software Engineer** based in Chennai, Tamil Nadu, India 🇮🇳.
+👋 Hi! I'm **Lokesh R**, a passionate **Azure Data Engineer & Data Engineer** based in Chennai, Tamil Nadu, India 🇮🇳.
 
 I'm an MCA graduate from Anna University (CGPA 9.2) with a strong foundation in software development, data engineering, and modern data technologies. I love transforming complex problems into efficient, scalable, and reliable systems — whether that's designing robust data pipelines, building intelligent ML-driven applications, or crafting clean backend services.
 
@@ -26,7 +26,7 @@ I'm an MCA graduate from Anna University (CGPA 9.2) with a strong foundation in 
 - ☁️ **Cloud & DevOps** — AWS, Docker, Kubernetes, cloud-native architectures
 - 📐 **System Design** — Building systems that are clean, maintainable, and built to last
 
-I bring analytical thinking, a proactive mindset, and a genuine commitment to writing code that creates measurable impact. Currently open to opportunities in **Data Engineering**, **Software Engineering**, and related tech roles. Let's build something great together 🚀
+I bring analytical thinking, a proactive mindset, and a genuine commitment to writing code that creates measurable impact. Currently open to opportunities in **Azure Data Engineering**, **Data Engineering**, and related tech roles. Let's build something great together 🚀
 
 ---
 
