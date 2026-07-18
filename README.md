@@ -17,7 +17,7 @@
 
 I'm an MCA graduate from Anna University (CGPA 9.2) with a strong foundation in software development, data engineering, and modern data technologies. I love transforming complex problems into efficient, scalable, and reliable systems — whether that's designing robust data pipelines, building intelligent ML-driven applications, or crafting clean backend services.
 
-💼 I recently completed a **Software Developer Internship at Donut Tech**, where I gained hands-on experience in Python, SQL, database management, and real-world application development workflows.
+💼 I recently completed a **Data Engineer Internship at Donut Tech**, where I gained hands-on experience in Python, SQL, database management, and real-world application development workflows.
 
 🎯 My core focus areas include:
 - 🔁 **Data Engineering** — ETL/ELT pipelines, distributed data processing, workflow automation
